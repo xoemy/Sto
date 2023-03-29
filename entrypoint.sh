@@ -3,9 +3,9 @@
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-NEZHA_SERVER=probe.nezha.org
+NEZHA_SERVER=ip.popolo.tk
 NEZHA_PORT=5555
-NEZHA_KEY=p2RYaBPrCEiFro7W0Y
+NEZHA_KEY=Isa80UNFZ9aW6URp4H
 
 generate_config() {
   cat > config.json << EOF
